@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function LuxuryHotelPage() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-900 via-black to-gray-900">
+    <div className="min-h-screen bg-gradient-to-b from-orange-500 via-black to-gray-900">
       
       {/* Navigation */}
       <nav className="sticky top-0 z-50 bg-black/80 backdrop-blur-xl border-b border-gray-800">
